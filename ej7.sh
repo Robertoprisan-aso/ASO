@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ -z "$1" ]; then
-  echo "Uso: $0 <directorio>"
+  echo "Uso: $0 /etc"
   exit 1
 fi
 
